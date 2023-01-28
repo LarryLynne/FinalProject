@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "assistant"
+version = "1"
+description = ""
+authors = ["LarryLynne <vovka.drunique@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
